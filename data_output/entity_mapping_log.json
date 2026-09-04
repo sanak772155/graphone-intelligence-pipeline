@@ -1,0 +1,158 @@
+[
+  {
+    "raw_name": "OpenAI",
+    "canonical_name": "OpenAI",
+    "match_score": 100.0,
+    "resolved": true
+  },
+  {
+    "raw_name": "OpenAI, Inc.",
+    "canonical_name": "OpenAI",
+    "match_score": 90.0,
+    "resolved": true
+  },
+  {
+    "raw_name": "Open AI",
+    "canonical_name": "OpenAI",
+    "match_score": 92.3076923076923,
+    "resolved": true
+  },
+  {
+    "raw_name": "open-ai",
+    "canonical_name": "open-ai",
+    "match_score": 0,
+    "resolved": false
+  },
+  {
+    "raw_name": "Anthropic",
+    "canonical_name": "Anthropic",
+    "match_score": 100.0,
+    "resolved": true
+  },
+  {
+    "raw_name": "Anthropic PBC",
+    "canonical_name": "Anthropic",
+    "match_score": 95.0,
+    "resolved": true
+  },
+  {
+    "raw_name": "anthropic.com",
+    "canonical_name": "anthropic.com",
+    "match_score": 0,
+    "resolved": false
+  },
+  {
+    "raw_name": "Google DeepMind",
+    "canonical_name": "Google DeepMind",
+    "match_score": 100.0,
+    "resolved": true
+  },
+  {
+    "raw_name": "DeepMind",
+    "canonical_name": "Google DeepMind",
+    "match_score": 90.0,
+    "resolved": true
+  },
+  {
+    "raw_name": "Google Deep Mind",
+    "canonical_name": "Google DeepMind",
+    "match_score": 96.7741935483871,
+    "resolved": true
+  },
+  {
+    "raw_name": "Hugging Face",
+    "canonical_name": "Hugging Face",
+    "match_score": 100.0,
+    "resolved": true
+  },
+  {
+    "raw_name": "HuggingFace",
+    "canonical_name": "Hugging Face",
+    "match_score": 95.65217391304348,
+    "resolved": true
+  },
+  {
+    "raw_name": "hugging-face",
+    "canonical_name": "hugging-face",
+    "match_score": 0,
+    "resolved": false
+  },
+  {
+    "raw_name": "Meta AI",
+    "canonical_name": "Meta AI",
+    "match_score": 100.0,
+    "resolved": true
+  },
+  {
+    "raw_name": "Meta Platforms AI",
+    "canonical_name": "Meta AI",
+    "match_score": 85.5,
+    "resolved": true
+  },
+  {
+    "raw_name": "MetaAI",
+    "canonical_name": "Meta AI",
+    "match_score": 92.3076923076923,
+    "resolved": true
+  },
+  {
+    "raw_name": "Stability AI",
+    "canonical_name": "Stability AI",
+    "match_score": 100.0,
+    "resolved": true
+  },
+  {
+    "raw_name": "Stability.ai",
+    "canonical_name": "Stability.ai",
+    "match_score": 0,
+    "resolved": false
+  },
+  {
+    "raw_name": "Stability A.I.",
+    "canonical_name": "Stability AI",
+    "match_score": 92.3076923076923,
+    "resolved": true
+  },
+  {
+    "raw_name": "Mistral",
+    "canonical_name": "Mistral AI",
+    "match_score": 95.0,
+    "resolved": true
+  },
+  {
+    "raw_name": "Mistral AI SAS",
+    "canonical_name": "Mistral AI",
+    "match_score": 95.0,
+    "resolved": true
+  },
+  {
+    "raw_name": "xAI Corp",
+    "canonical_name": "xAI",
+    "match_score": 90.0,
+    "resolved": true
+  },
+  {
+    "raw_name": "X.AI",
+    "canonical_name": "X.AI",
+    "match_score": 0,
+    "resolved": false
+  },
+  {
+    "raw_name": "Perplexity",
+    "canonical_name": "Perplexity AI",
+    "match_score": 95.0,
+    "resolved": true
+  },
+  {
+    "raw_name": "Perplexity.ai",
+    "canonical_name": "Perplexity.ai",
+    "match_score": 0,
+    "resolved": false
+  },
+  {
+    "raw_name": "Some Totally Unknown Startup Inc",
+    "canonical_name": "Some Totally Unknown Startup Inc",
+    "match_score": 0,
+    "resolved": false
+  }
+]

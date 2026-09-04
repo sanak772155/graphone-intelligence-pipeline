@@ -1,0 +1,223 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Hacker News Who's Hiring",
+      "url": "https://news.ycombinator.com/item?id=49550471"
+    },
+    "content": {
+      "company": "Trax",
+      "title": "Trax | https://www.traxtech.com/ | Onsite Cebu PH, Remote Costa Rica, Remote US are possible | Full-time | Architect I w",
+      "date": "2026-09-03T14:36:18+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "tags": []
+    },
+    "collectedAt": "2026-09-04T14:33:43.034152+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Hacker News Who's Hiring",
+      "url": "https://news.ycombinator.com/item?id=49550509"
+    },
+    "content": {
+      "company": "Unknown",
+      "title": "Hiring: Senior Software Engineers (LATAM/US/Canada-based) I’m working with a well-established technology company that’s ",
+      "date": "2026-09-03T14:39:19+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "tags": []
+    },
+    "collectedAt": "2026-09-04T14:33:43.034152+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Hacker News Who's Hiring",
+      "url": "https://news.ycombinator.com/item?id=49550510"
+    },
+    "content": {
+      "company": "Colonist",
+      "title": "Colonist | Product Engineer| Full-time | Remote & async Colonist.io is a multiplayer board game platform. ~20 people, mi",
+      "date": "2026-09-03T14:39:22+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "tags": []
+    },
+    "collectedAt": "2026-09-04T14:33:43.034152+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Hacker News Who's Hiring",
+      "url": "https://news.ycombinator.com/item?id=49552294"
+    },
+    "content": {
+      "company": "MIRA",
+      "title": "MIRA | Firmware Engineer | San Francisco, CA | ONSITE | Full-time MIRA builds lightweight AI glasses that act as a secon",
+      "date": "2026-09-03T16:05:50+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "tags": []
+    },
+    "collectedAt": "2026-09-04T14:33:43.034152+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Hacker News Who's Hiring",
+      "url": "https://news.ycombinator.com/item?id=49552714"
+    },
+    "content": {
+      "company": "AiMi",
+      "title": "AiMi | Full Stack AI Engineer | Remote(Everywhere) | Full-time AiMi builds agentic AI infrastructure for capital markets",
+      "date": "2026-09-03T16:29:17+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "tags": []
+    },
+    "collectedAt": "2026-09-04T14:33:43.034152+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Hacker News Who's Hiring",
+      "url": "https://news.ycombinator.com/item?id=49553487"
+    },
+    "content": {
+      "company": "Apex Dental Partners",
+      "title": "Apex Dental Partners | Full-Stack Developer | Dallas, TX | REMOTE (US) or HYBRID | Full-time | apexdp.com We're a Dental",
+      "date": "2026-09-03T17:21:54+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "tags": []
+    },
+    "collectedAt": "2026-09-04T14:33:43.034152+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Hacker News Who's Hiring",
+      "url": "https://news.ycombinator.com/item?id=49553901"
+    },
+    "content": {
+      "company": "Tandem Health",
+      "title": "Tandem Health | Engineers, PMs, Designers | On-site in Stockholm, Sweden | Full time At Tandem Health we're building a c",
+      "date": "2026-09-03T17:50:21+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "tags": []
+    },
+    "collectedAt": "2026-09-04T14:33:43.034152+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Hacker News Who's Hiring",
+      "url": "https://news.ycombinator.com/item?id=49554223"
+    },
+    "content": {
+      "company": "Akkio",
+      "title": "Akkio | Senior Software Engineers — FDE, Full-Stack, Backend | US (Fully Remote) | Full-time | $160k–$240k + equity | ht",
+      "date": "2026-09-03T18:14:42+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "tags": []
+    },
+    "collectedAt": "2026-09-04T14:33:43.034152+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Hacker News Who's Hiring",
+      "url": "https://news.ycombinator.com/item?id=49555479"
+    },
+    "content": {
+      "company": "Springcraft",
+      "title": "Springcraft | Manufacturing Engineer | On-site in Palo Alto, CA | Full time | $120k–$190k + equity Springcraft is buildi",
+      "date": "2026-09-03T19:33:23+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "tags": []
+    },
+    "collectedAt": "2026-09-04T14:33:43.034152+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Hacker News Who's Hiring",
+      "url": "https://news.ycombinator.com/item?id=49555567"
+    },
+    "content": {
+      "company": "vCluster Labs",
+      "title": "vCluster Labs | Multiple Engineering Roles | REMOTE (US, Canada, Europe) | Full-time | $140k-$220k USD | $140k-220k CAD ",
+      "date": "2026-09-03T19:37:18+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "tags": []
+    },
+    "collectedAt": "2026-09-04T14:33:43.034152+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Hacker News Who's Hiring",
+      "url": "https://news.ycombinator.com/item?id=49559434"
+    },
+    "content": {
+      "company": "Unknown",
+      "title": "SwingVision is the AI tennis, pickleball, and padel app that provides automated stats, highlights, and line calling usin",
+      "date": "2026-09-04T01:31:43+00:00",
+      "is_remote": false,
+      "role_family": "Data/ML",
+      "tags": []
+    },
+    "collectedAt": "2026-09-04T14:33:43.034152+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Hacker News Who's Hiring",
+      "url": "https://news.ycombinator.com/item?id=49562366"
+    },
+    "content": {
+      "company": "Unknown",
+      "title": "Python / Backend / AI Engineer — Remote / Relocation Experienced Python engineer with 10+ years in software engineering.",
+      "date": "2026-09-04T09:30:35+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "tags": []
+    },
+    "collectedAt": "2026-09-04T14:33:43.034152+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Hacker News Who's Hiring",
+      "url": "https://news.ycombinator.com/item?id=49562582"
+    },
+    "content": {
+      "company": "Crossref",
+      "title": "Crossref | Head of Infrastructure Services | REMOTE | Full-time | 120k USD or local equivalent I'm the Director of Techn",
+      "date": "2026-09-04T10:06:07+00:00",
+      "is_remote": true,
+      "role_family": "Research",
+      "tags": []
+    },
+    "collectedAt": "2026-09-04T14:33:43.034152+00:00"
+  }
+]

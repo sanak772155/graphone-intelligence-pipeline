@@ -1,0 +1,11 @@
+arxiv
+requests
+aiohttp
+beautifulsoup4
+rapidfuzz
+google-generativeai
+groq
+openpyxl
+feedparser
+python-dateutil
+

@@ -1,0 +1,27 @@
+raw_name,canonical_name,match_score,resolved
+OpenAI,OpenAI,100.0,True
+"OpenAI, Inc.",OpenAI,90.0,True
+Open AI,OpenAI,92.3076923076923,True
+open-ai,open-ai,0,False
+Anthropic,Anthropic,100.0,True
+Anthropic PBC,Anthropic,95.0,True
+anthropic.com,anthropic.com,0,False
+Google DeepMind,Google DeepMind,100.0,True
+DeepMind,Google DeepMind,90.0,True
+Google Deep Mind,Google DeepMind,96.7741935483871,True
+Hugging Face,Hugging Face,100.0,True
+HuggingFace,Hugging Face,95.65217391304348,True
+hugging-face,hugging-face,0,False
+Meta AI,Meta AI,100.0,True
+Meta Platforms AI,Meta AI,85.5,True
+MetaAI,Meta AI,92.3076923076923,True
+Stability AI,Stability AI,100.0,True
+Stability.ai,Stability.ai,0,False
+Stability A.I.,Stability AI,92.3076923076923,True
+Mistral,Mistral AI,95.0,True
+Mistral AI SAS,Mistral AI,95.0,True
+xAI Corp,xAI,90.0,True
+X.AI,X.AI,0,False
+Perplexity,Perplexity AI,95.0,True
+Perplexity.ai,Perplexity.ai,0,False
+Some Totally Unknown Startup Inc,Some Totally Unknown Startup Inc,0,False
