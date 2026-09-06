@@ -17,7 +17,17 @@ SEARCH_QUERIES = [
     "deep learning",
     "generative AI",
     "neural networks",
-    "transformers"
+    "transformers",
+    "diffusion models",
+    "multimodal learning",
+    "speech recognition",
+    "graph neural networks",
+    "federated learning",
+    "self-supervised learning",
+    "AI safety",
+    "robotics learning",
+    "knowledge graphs",
+    "time series forecasting"
 ]
 
 def extract_github_url(text):
